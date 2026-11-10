@@ -1,0 +1,10 @@
+*.svg
+*.xml
+*.zip
+*.log
+*.exe
+.DS_Store
+.idea/
+.vscode/
+debug.log
+testData_results/
